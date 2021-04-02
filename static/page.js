@@ -91,7 +91,7 @@ module.exports = function (req, res, url) {
 					isEmbed: 1,
 					ctc: "go",
 					tlang: "en_US",
-					lid: 13,
+					lid: 15,
 				},
 				allowScriptAccess: "always",
 				movie: process.env.SWF_URL + "/cc_browser.swf", // 'http://localhost/cc_browser.swf'
